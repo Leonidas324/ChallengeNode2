@@ -1,10 +1,8 @@
 import cowsay from "cowsay";
 
-const NAme= "Hans";
-const CAMPUS="Lyon"
 
 
-const cowsay = require("cowsay");
+
 
 console.log(cowsay.say({
       text : "I'm a moooodule",
@@ -12,3 +10,5 @@ console.log(cowsay.say({
       T: " U"
 
  }));
+
+ 
